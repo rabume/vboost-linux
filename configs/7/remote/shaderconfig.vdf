@@ -1,0 +1,61 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"valve"
+		{
+			"Steam"
+			{
+				"SurveyDate"		"2017-08-22"
+				"SurveyDateVersion"		"-4966830598177825824"
+				"SteamDefaultDialog"		"#app_store"
+				"CloudEnabled"		"0"
+				"ShowScreenshotManager"		"0"
+				"StartMenuShortcutCheck"		"1"
+				"DesktopShortcutCheck"		"0"
+				"Tools"
+				{
+					"1580130"
+					{
+						"Registered"		"1"
+					}
+				}
+				"apps"
+				{
+					"1222730"
+					{
+						"Hidden"		"0"
+					}
+					"1237950"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"1599340"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"1245620"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"674020"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+				}
+			}
+		}
+	}
+}
