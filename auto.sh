@@ -4,7 +4,6 @@
 clear
 sleep 1
 echo "-- Vertigo Boost Script --"
-echo "-- Author: wandermaus   --"
 echo ""
 
 # Check if log files got created
